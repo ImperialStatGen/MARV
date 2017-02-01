@@ -1,5 +1,5 @@
 # MARV
-MARV software for multi-phenotype analysis of rare variants
+MARV software for Multi-phenotype Analysis of Rare Variants
 
 References:
 
